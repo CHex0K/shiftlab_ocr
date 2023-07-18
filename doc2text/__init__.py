@@ -4,8 +4,8 @@ __all__ = [
     'Reader'
 ]
 '''
-from . import utils
-from . import models
+from . import yolo5
+from . import weights
 from . import reader
 from . import recognition
 from . import segmintation
